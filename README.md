@@ -1,17 +1,25 @@
-# Fake_News_prediction
-
-Using Various ML/DL models to detect the fake news. 
-
-Model used: 
-1. LogisticRegression
-2. SVM
-3. DecisionTreeClassifier
-4. RandomForestClassifier
-5. XGBoost classifier
-6. Gradient Boosting Classifier
-7. CatBoost Classifier
-8. ANN
-9. RNN
-10. LSTM
-
-**If you iterate XGBoost classifier you will get 100% accuracy **
+# Sales-Data-Analysis
+## OBJECTIVE:
+To Understand how was the Sales of different Items. 
+## PROBLEM STATEMENT: 
+Sales Management has gained importance to meet increasing competition and the need
+for improved methods of distribution to reduce cost and to increase profits. Sales
+management today is the most important function in a commercial and business
+enterprise.
+Do ETL : Extract-Transform-Load some Amazon dataset and find for me
+Sales-trend -> month wise , year wise , yearly_month wise
+Find key metrics and factors and show the meaningful relationships between attributes.
+## DATASET: 
+https://docs.google.com/spreadsheets/d/1h3EsPf-fTLrzpP7sGeyuRnGBXrdJRcXY/edit?usp=sharing&ouid=105519103382792804653&rtpof=true&sd=true
+## TECHNOLOGY:
+Business Intelligence
+## DOMAIN:
+E-commerce
+## PROGRAMMING LANGUAGE:
+PYTHON
+## TOOLS:
+Jupyter Notebook, Power BI, MS Excel
+## LINKEDIN: 
+https://www.linkedin.com/posts/rahul-gupta-0b10bb21b_analyzing-amazon-sales-data-activity-6914799832943525888-xm6O?utm_source=linkedin_share&utm_medium=member_desktop_web
+## VIDEO LINK:
+https://youtu.be/JcMVNsBByhY
