@@ -21,5 +21,3 @@ PYTHON
 Jupyter Notebook, Power BI, MS Excel
 ## LINKEDIN: 
 https://www.linkedin.com/posts/heyveer
-## VIDEO LINK:
-https://youtu.be/JcMVNsBByhY
